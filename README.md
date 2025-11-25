@@ -16,8 +16,8 @@ Acompanhamento semanal do desenvolvimento dos subsistemas e da implementação d
 
 ### Cronograma e Entregas
 
-| Semana | Datas | Atividades Planejadas |
-| :---: | :---: | :--- | :---: |
+| Semana | Datas | Atividades Realizadas |
+| :---: | :---: | :--- |
 | **00** | 18/11 - 25/12 | • Criação do repositório• Configuração do ambiente C++ |
 
 ---
