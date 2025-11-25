@@ -18,7 +18,7 @@ Acompanhamento semanal do desenvolvimento dos subsistemas e da implementação d
 
 | Semana | Datas | Atividades Realizadas |
 | :---: | :---: | :--- |
-| **00** | 18/11 - 25/12 | • Criação do repositório• Configuração do ambiente C++ |
+| **00** | 18/11 - 25/12 | • Criação do repositório \n• Configuração do ambiente C++ |
 
 ---
 
