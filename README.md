@@ -18,8 +18,3 @@ Acompanhamento semanal do desenvolvimento dos subsistemas e da implementação d
 | **01** | 03/12 - 09/12 | • Atualização da especificação • Primeira implementação |
 
 ---
-
-## 📦 Compilação e Execução
-
-Instruções para compilar o projeto:
-
