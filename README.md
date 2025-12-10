@@ -10,15 +10,12 @@ Linguagem utilizada: **C++**
 
 Acompanhamento semanal do desenvolvimento dos subsistemas e da implementação da Fachada.
 
-### Status Atual Geral
-**Progresso Total:**
-`░░░░░░░░░░` **0%**
-
 ### Cronograma e Entregas
 
 | Semana | Datas | Atividades Realizadas |
 | :---: | :---: | :--- |
-| **00** | 18/11 - 25/12 | • Criação do repositório • Configuração do ambiente C++ |
+| **00** | 26/11 - 03/12 | • Criação do repositório • Configuração do ambiente C++ |
+| **01** | 03/12 - 09/12 | • Atualização da especificação • Primeira implementação |
 
 ---
 
